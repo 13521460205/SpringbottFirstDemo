@@ -11,5 +11,6 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 
 		System.out.print("第一个spring boot 程序");
+		System.out.print("第四个spring boot 程序");
 	}
 }
